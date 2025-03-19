@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fic\\Documents\\VS 2022\\EstruturaRepeticao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AF08F4-7299-46E1-9469-73061A01CCA2}|Execercicios\\Execercicios.csproj|c:\\users\\fic\\documents\\vs 2022\\estruturarepeticao\\execercicios\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AF08F4-7299-46E1-9469-73061A01CCA2}|Execercicios\\Execercicios.csproj|solutionrelative:execercicios\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827676A6-25AF-4680-BABA-A8738F5DD0D5}|Curso-SENAI02\\Curso-SENAI.csproj|c:\\users\\fic\\documents\\vs 2022\\estruturarepeticao\\curso-senai02\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827676A6-25AF-4680-BABA-A8738F5DD0D5}|Curso-SENAI02\\Curso-SENAI.csproj|solutionrelative:curso-senai02\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 558,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicios.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\EstruturaRepeticao\\Execercicios\\Exercicios.cs",
+              "RelativeDocumentMoniker": "Execercicios\\Exercicios.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\EstruturaRepeticao\\Execercicios\\Exercicios.cs",
+              "RelativeToolTip": "Execercicios\\Exercicios.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAKIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:33:32.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aula.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\EstruturaRepeticao\\Curso-SENAI02\\Aula.cs",
+              "RelativeDocumentMoniker": "Curso-SENAI02\\Aula.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\EstruturaRepeticao\\Curso-SENAI02\\Aula.cs",
+              "RelativeToolTip": "Curso-SENAI02\\Aula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:14:14.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

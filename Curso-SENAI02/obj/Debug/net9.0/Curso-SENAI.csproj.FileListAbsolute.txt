@@ -1,0 +1,15 @@
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\bin\Debug\net9.0\Curso-SENAI.exe
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\bin\Debug\net9.0\Curso-SENAI.deps.json
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\bin\Debug\net9.0\Curso-SENAI.runtimeconfig.json
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\bin\Debug\net9.0\Curso-SENAI.dll
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\bin\Debug\net9.0\Curso-SENAI.pdb
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\obj\Debug\net9.0\Curso-SENAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\obj\Debug\net9.0\Curso-SENAI.AssemblyInfoInputs.cache
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\obj\Debug\net9.0\Curso-SENAI.AssemblyInfo.cs
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\obj\Debug\net9.0\Curso-SENAI.csproj.CoreCompileInputs.cache
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\obj\Debug\net9.0\Curso-SENAI.sourcelink.json
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\obj\Debug\net9.0\Curso-SENAI.dll
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\obj\Debug\net9.0\refint\Curso-SENAI.dll
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\obj\Debug\net9.0\Curso-SENAI.pdb
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\obj\Debug\net9.0\Curso-SENAI.genruntimeconfig.cache
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Curso-SENAI02\obj\Debug\net9.0\ref\Curso-SENAI.dll

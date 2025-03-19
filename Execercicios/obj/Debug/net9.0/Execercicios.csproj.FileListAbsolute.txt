@@ -1,0 +1,15 @@
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\bin\Debug\net9.0\Execercicios.exe
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\bin\Debug\net9.0\Execercicios.deps.json
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\bin\Debug\net9.0\Execercicios.runtimeconfig.json
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\bin\Debug\net9.0\Execercicios.dll
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\bin\Debug\net9.0\Execercicios.pdb
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\obj\Debug\net9.0\Execercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\obj\Debug\net9.0\Execercicios.AssemblyInfoInputs.cache
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\obj\Debug\net9.0\Execercicios.AssemblyInfo.cs
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\obj\Debug\net9.0\Execercicios.csproj.CoreCompileInputs.cache
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\obj\Debug\net9.0\Execercicios.dll
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\obj\Debug\net9.0\refint\Execercicios.dll
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\obj\Debug\net9.0\Execercicios.pdb
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\obj\Debug\net9.0\Execercicios.genruntimeconfig.cache
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\obj\Debug\net9.0\ref\Execercicios.dll
+C:\Users\Fic\Documents\VS 2022\EstruturaRepeticao\Execercicios\obj\Debug\net9.0\Execercicios.sourcelink.json
