@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Fic\\Documents\\VS 2022\\EstruturaRepeticao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fic\\Documents\\VS 2022\\EstruturaRepeticao\\Curso-SENAI02\\Aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Curso-SENAI02\\Aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{827676A6-25AF-4680-BABA-A8738F5DD0D5}|Curso-SENAI02\\Aulas.csproj|c:\\users\\fic\\documents\\vs 2022\\estruturarepeticao\\curso-senai02\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827676A6-25AF-4680-BABA-A8738F5DD0D5}|Curso-SENAI02\\Aulas.csproj|solutionrelative:curso-senai02\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7AF08F4-7299-46E1-9469-73061A01CCA2}|Execercicios\\Execercicios.csproj|c:\\users\\fic\\documents\\vs 2022\\estruturarepeticao\\execercicios\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Execercicios\\Exercicios.cs",
               "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\EstruturaRepeticao\\Execercicios\\Exercicios.cs",
               "RelativeToolTip": "Execercicios\\Exercicios.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAKIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACIBAAAAAAAAAAAqwDoBAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T00:33:32.807Z",
               "EditorCaption": ""
@@ -41,8 +41,10 @@
               "RelativeDocumentMoniker": "Curso-SENAI02\\Aula.cs",
               "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\EstruturaRepeticao\\Curso-SENAI02\\Aula.cs",
               "RelativeToolTip": "Curso-SENAI02\\Aula.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAqwAMBAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T23:14:14.036Z"
+              "WhenOpened": "2025-03-17T23:14:14.036Z",
+              "EditorCaption": ""
             }
           ]
         }

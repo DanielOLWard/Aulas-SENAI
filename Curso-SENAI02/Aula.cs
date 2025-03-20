@@ -193,17 +193,17 @@
 //    Console.WriteLine(i);
 //}
 
-// Tratamento de erros
+//Tratamento de erros
 
 //int numero = int.Parse(Console.ReadLine());
 
-// Exception = erro
+//Exception = erro
 // IOExeption - In and Out - Entrada e Saida
 // FormatException - Erros no formato (tipo de dado)
 // OverflowException - variavel transbordou
 
 // try/catch - Tentar/Pegar
-//
+
 //try
 //{
 //    int num = int.Parse(Console.ReadLine());
@@ -222,9 +222,39 @@
 
 //}
 
-//int idade  = int.Parse(Console.ReadLine());
+//int idade = int.Parse(Console.ReadLine());
 ////cria um erro
-//if (idade >120)
+//if (idade > 120)
 //{
-//    throw new ArgumentOutOfRangeException("Idade invalida");
+//    throw new OverflowException("Idade invalida");
+//}
+
+//// Vetor/array e listas
+//// Crie 5 idades
+
+//// <criei o vetor e dei um nome> <inicializo o vetor> (limitado pelo numero dentro do cochetes)
+//int[] idades = new int[5];
+//string[] nomes = new string[10];
+//// Posicoes - 0 1 2 3 4 5 6 7 8 9 (comeca no zero e vai ate o numero anterior do numero maximo definido)
+//nomes[0] = Console.ReadLine();
+
+//idades[4] = 24;
+
+//// FOR - Percorrer listas/Vetores
+//for (int i = 0; i < 10; i++)
+//{
+//    Console.WriteLine($"insira o nome {i}");
+//    nomes[i] = Console.ReadLine();
+//}
+
+////Listar todos os nomes
+//for (int i = 0; i < 10; i++)
+//{
+//    Console.WriteLine(nomes[i]);
+//}
+
+//// foreach - para cada
+//foreach (var itens in nomes)
+//{
+//    Console.WriteLine(itens);
 //}

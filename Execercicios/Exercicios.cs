@@ -166,3 +166,150 @@
 
 //double media = SomaNotas / qtdNotas;
 //Console.WriteLine("a media e: " + media);
+////________________________________________________________________________________________________
+
+//// EXERCICIOS 18/03
+
+//// Excercicio 1 Entrada Segura de Números - Crie um programa que peça ao usuário para digitar um número inteiro. O programa deve usar `try/catch` para garantir que o usuário insira um número válido
+
+//using System.ComponentModel;
+
+//Console.WriteLine("Digite um numero: ");
+//try
+//{
+//    int numero = int.Parse(Console.ReadLine());
+//}
+//catch (FormatException ex)
+//{
+//    Console.WriteLine("Apenas numeros sao aceitos!!");
+//}
+
+//// Excercicio 2 Divisao segura - Crie um programa que peça dois números ao usuário e divida o primeiro pelo segundo. Use try/catch para evitar divisão por zero e entrada inválida
+
+//Console.WriteLine("digite 2 numeros e eu irei dividir: ");
+//try
+//{
+//    int dividendo = int.Parse(Console.ReadLine());
+//    int divisor = int.Parse(Console.ReadLine());
+//    int resultado = dividendo / divisor;
+//    Console.WriteLine(resultado);
+//}
+//catch (FormatException ex)
+//{
+//    Console.WriteLine("Apenas numeros sao aceitos!!");
+//}
+//catch (DivideByZeroException ex)
+//{
+//    Console.WriteLine("Nao e possivel dividir por zero!!");
+//}
+
+//// Exercicio 3 Validacao de idade - Peça ao usuário para inserir sua idade e diga se ele é maior ou menor de idade. Use try/catch para evitar entradas inválidas.
+
+//Console.WriteLine("Insira uma idade: ");
+//int idade = 0;
+//try
+//{
+//    idade = int.Parse(Console.ReadLine());
+//    if (idade > 120 || idade < 0)
+//    {
+//        throw new OverflowException();
+//    }
+//}
+//catch (FormatException ex)
+//{
+//    Console.WriteLine("Apenas numeros sao aceitos!!");
+//}
+//catch (OverflowException ex)
+//{
+//    Console.WriteLine("Insira uma idade valida!!");
+//}
+
+//// Exercicio 4 Contagem progressiva segura - Peça ao usuário para inserir um número inteiro positivo. O programa deve contar de 1 até esse número. Se a entrada for inválida ou negativa, exiba um erro.
+
+//Console.WriteLine("Escreva um numero e irei contar ate ele: ");
+//int numUser = int.Parse(Console.ReadLine());
+//int i = 1;
+//try
+//{
+//    if (numUser > 500)
+//    {
+//        throw new OverflowException();
+//    }
+//    do
+//    {
+//        Console.WriteLine(i);
+//        i++;
+//    } while (i <= numUser);
+//}
+//catch (FormatException ex)
+//{
+//    Console.WriteLine("Apenas numeros sao aceitos!!");
+//}
+//catch (OverflowException ex)
+//{
+//    Console.WriteLine("Numero muito grande");
+//}
+//catch (ArgumentOutOfRangeException)
+//{
+//    Console.WriteLine("Insira apenas numeros negativos!!");
+//}
+
+//// Exercicio 5 soma de numeros - Crie um programa que peça ao usuário para inserir 5 números e some-os. Use try/catch para lidar com entradas inválidas.
+
+//int soma = 0;
+//int numero = 0;
+//bool verificada = false;
+
+//for (int i = 1; i <= 5; i++)  // Alterado para incluir 5 números
+//{
+//    Console.WriteLine($"Digite o {i}º número: ");
+//    verificada = false;
+
+//    while (!verificada)  // A lógica de verificação precisa ser corrigida para verificar a entrada
+//    {
+//        try
+//        {
+//            numero = int.Parse(Console.ReadLine());
+
+//            if (numero < 0)
+//            {
+//                throw new ArgumentOutOfRangeException();  // Lança uma exceção se o número for negativo
+//            }
+
+//            soma += numero;  // Adiciona o número à soma
+//            verificada = true;  // A entrada foi válida, sai do loop
+//        }
+//        catch (FormatException)
+//        {
+//            Console.WriteLine("Erro: Entre somente com números inteiros!");
+//        }
+//        catch (ArgumentOutOfRangeException)
+//        {
+//            Console.WriteLine("Erro: Não é permitido números negativos!");
+//        }
+//        catch (OverflowException)
+//        {
+//            Console.WriteLine("Erro: Número muito grande!");
+//        }
+//    }
+//}
+
+//Console.WriteLine($"A soma dos números é: {soma}");
+
+////________________________________________________________________________________________________
+
+//// EXERCICIOS 19/03
+
+//// Exercicio 1 crie um vetor de idades que armazene 4 idades
+
+//int[] idades = new int[4];
+
+//for (int i = 0; i < 4; i++)
+//{
+//    Console.WriteLine($"escreva a idade {i}");
+//    idades[i] = int.Parse(Console.ReadLine());
+//}
+//for (int i = 0; i < 4; i++)
+//{
+//    Console.WriteLine($"a idade {i} e: {idades[i]}");
+//}
