@@ -313,3 +313,22 @@
 //{
 //    Console.WriteLine($"a idade {i} e: {idades[i]}");
 //}
+
+//___________________________________________________________________________________________________
+
+// EXERCICIOS 21/03
+
+// Exercicio 01 - Crie uma funcao de soma
+
+double FazerSoma()
+{
+    Console.WriteLine("Insira 2 numeros e eu somarei eles!!");
+   double soma1 = double.Parse(Console.ReadLine());
+   double soma2 = double.Parse(Console.ReadLine());
+
+    double resultado = soma2 + soma1;
+
+    return resultado;
+}
+
+Console.WriteLine($"O resultado e: {FazerSoma()}");

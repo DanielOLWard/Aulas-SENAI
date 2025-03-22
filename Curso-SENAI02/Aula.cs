@@ -258,3 +258,35 @@
 //{
 //    Console.WriteLine(itens);
 //}
+
+// Funcao
+
+// Fazer uma multiplicacao entre 2 numeros
+// <Tipo de retorno> <Nome da funcao< () { }
+using System.Xml;
+
+double FazerMultplicacao()
+{
+    double numero1 = 7;
+    double numero2 = double.Parse(Console.ReadLine()); // Pode pedir pro usuario pedir o numero ou nao
+
+    double resultado = numero1 * numero2;
+
+    return resultado; //Saida da funcao
+}
+
+// Chama/usa a saida da funcao
+Console.WriteLine(FazerMultplicacao());
+
+// Preciso fazer varias multiplicacoes
+double Multiplicar(double num1, double num2) // O que estiver dentro dos parenteses e a entrada dela
+{
+    double resultado = num1 * num2;
+
+    return resultado;
+}
+Console.WriteLine(Multiplicar(2, 4));
+// Tem como pedir o valor pro usuario fora da funcao
+double n1 = double.Parse(Console.ReadLine());
+double n2 = double.Parse(Console.ReadLine());
+Console.WriteLine(Multiplicar(n1, n2));
